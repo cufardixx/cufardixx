@@ -1,13 +1,16 @@
 # Hola, Soy Facundo 👋🏼👨🏻‍💻
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+<img src="https://raw.githubusercontent.com/cufardixx/cufardixx/main/a.png">
+Soy un estudiante de ingenieria de software apasionado por hacer que la contribución al código abierto sea más accesible, crear tecnología para elevar a las personas y construir una comunidad. Algunas tecnologías con las que disfruto trabajar son JavaScript.
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+## Encontrame en la Web como 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="200" height="200"  src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e472vypxvk6f2o7xmeh9o4ftqpmhtd95d2ckxfwfkzl&rid=giphy.gif&ct=g"></a>
+       - Mi Linkedin <a href="https://www.linkedin.com/in/facundo-picia-835316233/"> 💼
+       - Mi Portafolio <a href="https://codepen.io/m0nica"> 
+       - Encontrame en Instagram como <a href="https://www.instagram.com/facupicia/?hl=es-la"> 📷 y tambien seguime en Twitter <a href="https://twitter.com/facupicia"> 🖊️
+       
+
+
 
 <!--
 **cufardixx/cufardixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
