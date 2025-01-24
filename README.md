@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre Me***
 
-Actualmente estudiante de ingeniería informática, actualmente a mitad de mi carrera. Estoy ampliando mis conocimientos en desarrollo front-end y back-end. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
+Actualmente estudiante de ingeniería informática, a mitad de mi carrera. Estoy ampliando mis conocimientos en desarrollo front-end y back-end. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
 - Actualmente estoy aprendiendo 🚀...
   - Nest.js
   - React
